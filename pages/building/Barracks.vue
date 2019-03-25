@@ -573,7 +573,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">6</td>
+            <td class="unit4">5</td>
           </tr>
         </table>
 
